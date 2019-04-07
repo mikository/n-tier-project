@@ -1,0 +1,6 @@
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\Types\bin\Debug\Types.dll
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\Types\bin\Debug\Types.pdb
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\Types\obj\Debug\Types.dll
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\Types\obj\Debug\Types.pdb
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\Types\obj\Debug\Types.csprojAssemblyReference.cache

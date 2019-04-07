@@ -1,0 +1,10 @@
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\bin\Debug\DAL.dll.config
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\bin\Debug\DAL.dll
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\bin\Debug\DAL.pdb
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\bin\Debug\Types.dll
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\bin\Debug\Types.pdb
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\obj\Debug\DAL.dll
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\obj\Debug\DAL.pdb
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Home-PC\Desktop\NBCC\N-Tier\ABC\DAL\obj\Debug\DAL.csproj.CopyComplete
